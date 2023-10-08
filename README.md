@@ -1,0 +1,1 @@
+# Magnitute_Earthquakes_PowerBI
